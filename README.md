@@ -18,7 +18,7 @@ Data Analysis: Pandas, NumPy, SQL, Excel
 Contact
 Connect with me:
 LinkedIn:www.linkedin.com/in/bryan-munyao-b11852309
-Email: munyaobryan6@gmail.com(Update with your email)
+Email: munyaobryan6@gmail.com
 
 
 
