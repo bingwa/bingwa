@@ -1,24 +1,35 @@
-Welcome to My GitHub Profile! 👋
-I'm @bingwa, a full-stack developer and data analyst currently studying computer science at the Cooperative University of Kenya. I'm passionate about building software solutions and analyzing data to drive insights. Through the ALX Software Engineering program, I'm honing my skills in full-stack development and exploring new technologies.
-About Me
+## Hey there, I'm Bryan Munyao 👋
 
-🌱 Enrolled in the ALX Software Engineering program, learning front-end and back-end development.
-💼 Experienced in data analysis and visualization, with a focus on actionable insights.
-🎓 Pursuing a degree in computer science to master computing fundamentals.
-💞️ Eager to collaborate on software engineering and data-related projects.
+GenAI Specialist at **CreativeBits AI** | Computer Science Graduate | Full-Stack Developer
 
-Skills
+I specialize in building intelligent software solutions leveraging generative AI and modern development practices. With a strong foundation in computer science and hands-on experience across the full development stack, I'm passionate about creating impactful applications that solve real-world problems.
 
-Programming Languages: C, Shell, Python, JavaScript
-Web Development: HTML, CSS, React, Node.js
-DevOps: Bash scripting, Linux, Git
-Data Analysis: Pandas, NumPy, SQL, Excel
+---
 
+## 🚀 About Me
 
-Contact
-Connect with me:
-LinkedIn:www.linkedin.com/in/bryan-munyao-b11852309
-Email: munyaobryan6@gmail.com
+- **Current Role**: GenAI Specialist (Java) at CreativeBits AI
+- **Education**: Bachelor's Degree in Computer Science
+- **Focus**: Generative AI, full-stack development, and backend engineering
+- **Interests**: Building scalable systems, AI integration, and collaborative development
 
+---
 
+## 💻 Technical Skills
 
+**Languages**: Java, Python, TypeScript, C, Shell, JavaScript  
+**Web Development**: React, Node.js, HTML, CSS  
+**Backend & DevOps**: Bash scripting, Linux, Git  
+**Tools & Technologies**: GenAI frameworks, database design, system architecture
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn**: [bryan-munyao-b11852309](https://www.linkedin.com/in/bryan-munyao-b11852309)
+- **Email**: munyaobryan6@gmail.com
+- **GitHub**: [@bingwa](https://github.com/bingwa)
+
+---
+
+*Always learning, always building. Let's collaborate! 🤝*
